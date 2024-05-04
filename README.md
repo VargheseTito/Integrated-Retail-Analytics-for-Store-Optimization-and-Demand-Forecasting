@@ -7,7 +7,7 @@ Project Objective![image](https://github.com/VargheseTito/Integrated-Retail-Anal
 To utilize machine learning and data analysis techniques to optimize store performance, forecast demand, and enhance customer experience through segmentation and personalized marketing strategies.
 
 To foster long-term customer loyalty and satisfaction by delivering personalized experiences that exceed expectations. By continuously refining our strategies based on customer feedback and market insights, we can position ourselves as a trusted partner in meeting the evolving needs of our customers while driving sustainable business success in an increasingly competitive retail landscape.
-![image](https://github.com/VargheseTito/Integrated-Retail-Analytics-for-Store-Optimization-and-Demand-Forecasting/assets/110298267/18e282ee-bbe9-48a4-b3ab-9392835d6fb4)
+
 
 About Dataset![image](https://github.com/VargheseTito/Integrated-Retail-Analytics-for-Store-Optimization-and-Demand-Forecasting/assets/110298267/021dd44f-e986-4fc9-9eb6-13fc1d83ada4)
 
